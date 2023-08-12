@@ -1,0 +1,62 @@
+Changed database context to 'Practica'.
+
+Tabla Country
+
+-------------
+
+          105
+
+
+
+(1 rows affected)
+
+Tabla Dates
+
+-----------
+
+       2146
+
+
+
+(1 rows affected)
+
+Tabla Location_Name
+
+-------------------
+
+                797
+
+
+
+(1 rows affected)
+
+Tabla Tsunami
+
+-------------
+
+         2017
+
+
+
+(1 rows affected)
+
+Tabla Temporal
+
+--------------
+
+          2162
+
+
+
+(1 rows affected)
+
+Tabla History
+
+-------------
+
+          233
+
+
+
+(1 rows affected)
+

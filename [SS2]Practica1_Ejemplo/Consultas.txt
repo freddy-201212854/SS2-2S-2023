@@ -1,0 +1,8 @@
+Msg 911, Level 16, State 1, Server DESKTOP-MOKQI5C, Line 1
+Database 'Practica' does not exist. Make sure that the name is entered correctly.
+Msg 208, Level 16, State 1, Server DESKTOP-MOKQI5C, Line 2
+Invalid object name 'Country'.
+Msg 208, Level 16, State 1, Server DESKTOP-MOKQI5C, Line 2
+Invalid object name 'Dates'.
+Msg 208, Level 16, State 1, Server DESKTOP-MOKQI5C, Line 6
+Invalid object name 'History'.

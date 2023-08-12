@@ -1,0 +1,10 @@
+USE [Practica]
+GO
+
+-- ELIMINACIÓN DE TABLAS
+DROP TABLE History;
+DROP TABLE Country;
+DROP TABLE Dates;
+DROP TABLE Location_Name;
+DROP TABLE Tsunami;
+DROP TABLE TEMPORAL;

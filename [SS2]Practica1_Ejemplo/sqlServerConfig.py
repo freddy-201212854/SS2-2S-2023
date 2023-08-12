@@ -1,0 +1,5 @@
+driver = 'ODBC Driver 18 for SQL Server'
+server = 'DESKTOP-MOKQI5C\MSSQLSERVER01'
+sql_user = 'DESKTOP-MOKQI5C\BDGSA'
+sql_password = ''
+database = 'Practica'

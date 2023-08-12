@@ -1,0 +1,10 @@
+def print_main_menu():
+    print('===========================================================')
+    print('=======================MAIN MENU===========================')
+    print('===========================================================')
+    print("1. Borrar Informacion")
+    print("2. Crear Base de Datos")
+    print("3. Extraer Informacicon")
+    print("4. Cargar Informacicon")
+    print("5. Realizar Consultas")
+    print("6. Salir")

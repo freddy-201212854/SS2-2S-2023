@@ -1,0 +1,62 @@
+Changed database context to 'Practica'.
+
+name                                                                                                                                                   Altura_Maxima_agua                      
+
+------------------------------------------------------------------------------------------------------------------------------------------------------ ----------------------------------------
+
+USA                                                                                                                                                                                   34.450000
+
+FIJI                                                                                                                                                                                  15.000000
+
+NICARAGUA                                                                                                                                                                             10.000000
+
+INDONESIA                                                                                                                                                                              6.750000
+
+GREECE                                                                                                                                                                                 6.166666
+
+COLOMBIA                                                                                                                                                                               6.000000
+
+CANADA                                                                                                                                                                                 5.500000
+
+NEW ZEALAND                                                                                                                                                                            5.333333
+
+ECUADOR                                                                                                                                                                                5.000000
+
+MEXICO                                                                                                                                                                                 4.545454
+
+CHILE                                                                                                                                                                                  4.181818
+
+VANUATU                                                                                                                                                                                4.000000
+
+PHILIPPINES                                                                                                                                                                            3.857142
+
+RUSSIA                                                                                                                                                                                 3.718750
+
+PAPUA NEW GUINEA                                                                                                                                                                       3.666666
+
+SAMOA                                                                                                                                                                                  3.250000
+
+SOLOMON ISLANDS                                                                                                                                                                        3.200000
+
+ALGERIA                                                                                                                                                                                3.000000
+
+PERU                                                                                                                                                                                   3.000000
+
+TONGA                                                                                                                                                                                  2.500000
+
+JAPAN                                                                                                                                                                                  2.453125
+
+NEW CALEDONIA                                                                                                                                                                          1.000000
+
+UKRAINE                                                                                                                                                                                1.000000
+
+TAIWAN                                                                                                                                                                                  .000000
+
+GUATEMALA                                                                                                                                                                               .000000
+
+COSTA RICA                                                                                                                                                                              .000000
+
+
+
+(26 rows affected)
+

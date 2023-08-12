@@ -1,0 +1,62 @@
+Changed database context to 'Practica'.
+
+name                                                                                                                                                   PromedioTotalDamage                     
+
+------------------------------------------------------------------------------------------------------------------------------------------------------ ----------------------------------------
+
+ALGERIA                                                                                                                                                                             5000.000000
+
+CANADA                                                                                                                                                                                     NULL
+
+CHILE                                                                                                                                                                                309.750000
+
+COLOMBIA                                                                                                                                                                               8.000000
+
+COSTA RICA                                                                                                                                                                                 NULL
+
+ECUADOR                                                                                                                                                                                    NULL
+
+FIJI                                                                                                                                                                                       NULL
+
+GREECE                                                                                                                                                                               330.500000
+
+GUATEMALA                                                                                                                                                                                  NULL
+
+INDONESIA                                                                                                                                                                             21.600000
+
+JAPAN                                                                                                                                                                              14689.000000
+
+MEXICO                                                                                                                                                                                25.000000
+
+NEW CALEDONIA                                                                                                                                                                              NULL
+
+NEW ZEALAND                                                                                                                                                                                NULL
+
+NICARAGUA                                                                                                                                                                             30.000000
+
+PAPUA NEW GUINEA                                                                                                                                                                       2.000000
+
+PERU                                                                                                                                                                                  15.333333
+
+PHILIPPINES                                                                                                                                                                           69.000000
+
+RUSSIA                                                                                                                                                                               150.500000
+
+SAMOA                                                                                                                                                                                      NULL
+
+SOLOMON ISLANDS                                                                                                                                                                            NULL
+
+TAIWAN                                                                                                                                                                                     NULL
+
+TONGA                                                                                                                                                                                      NULL
+
+UKRAINE                                                                                                                                                                                    NULL
+
+USA                                                                                                                                                                                 5067.125000
+
+VANUATU                                                                                                                                                                                    NULL
+
+
+
+(26 rows affected)
+

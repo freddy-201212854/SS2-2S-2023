@@ -1,0 +1,20 @@
+Changed database context to 'Practica'.
+
+years                Cantidad_de_muertos                     
+
+-------------------- ----------------------------------------
+
+                1923                                   142825
+
+                1952                                    10033
+
+                1976                                     8000
+
+                1995                                     7584
+
+                1933                                     3142
+
+
+
+(5 rows affected)
+
