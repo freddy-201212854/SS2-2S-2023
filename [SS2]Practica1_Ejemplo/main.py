@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 # Las librerias necesarias
 #import pyodbc
 # imports Conexion SQL Server
@@ -32,7 +34,13 @@ logger.addHandler(ch)
 # Conexion SQL SERVER
 try:
     #CONNECTION_STRING = f"DRIVER={{ODBC Driver 17 for SQL Server}};SERVER=DESKTOP-8Q6L6F9\SQLEXPRESS;DATABASE=dw;UID=usr_ss2:PWD=123456;Trusted_Connection=yes"
-    CONNECTION_STRING = f"DRIVER=ODBC Driver 17 for SQL Server;SERVER=DESKTOP-MOKQI5C\MSSQLSERVER01;DATABASE=Practica;UID=DESKTOP-MOKQI5C\BDGSA;Trusted_Connection=yes;"
+    CONNECTION_STRING = (
+        "DRIVER=ODBC Driver 17 for SQL Server;"
+        "SERVER=DESKTOP-DFPFKQN\\SQLEXPRESS;"
+        "DATABASE=Practica;"
+        "UID=DESKTOP-MOKQI5C\\Freddy;"
+        "Trusted_Connection=yes;"
+    )
     logger.info("Iniciando nuestra aplicacion")
     logger.info(" CONNECTION_STRING: ".center(80, "-"))
     #before, after = CONNECTION_STRING.split("PWD=")

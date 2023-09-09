@@ -1,0 +1,11 @@
+carne|nombre|llevalab|nota
+201212854|Freddy|S|100
+201280000|Alejandro|S|80
+201280001|Monterroso|S|60
+201280002|Monterroso|S|70
+201280004||S|80
+201280005|Enrique|S|68
+201280006|Luis|S|90
+201280007||S|85
+201280008|Maria|S|65
+201280009|Fernanda|S|55
